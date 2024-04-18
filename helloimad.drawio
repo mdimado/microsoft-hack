@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2024-04-18T06:19:51.141Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KKWbG6NVtXTufxNuEREb" version="24.2.5" type="device">
+  <diagram name="Page-1" id="sLpqRrl7Dj0J8m_RIsoV">
+    <mxGraphModel dx="1122" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3a-n9st_C0D8UC_MUPy8-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="2Y6xTXe3uvFykR0Hw1cl-33" target="3a-n9st_C0D8UC_MUPy8-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y6xTXe3uvFykR0Hw1cl-33" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;LLMs fine-tuned on medical data&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="285" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y6xTXe3uvFykR0Hw1cl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2Y6xTXe3uvFykR0Hw1cl-1" target="2Y6xTXe3uvFykR0Hw1cl-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y6xTXe3uvFykR0Hw1cl-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Data collection using APIs and web scraping&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="70" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y6xTXe3uvFykR0Hw1cl-19" value="Latest Medical Research" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="75" y="150" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y6xTXe3uvFykR0Hw1cl-25" value="RAG (Retrieval-Augmented Generation) pipeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="285" y="110" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3a-n9st_C0D8UC_MUPy8-21" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="260" y="140" width="330" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="3a-n9st_C0D8UC_MUPy8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;" parent="1" source="3a-n9st_C0D8UC_MUPy8-11" target="2Y6xTXe3uvFykR0Hw1cl-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3a-n9st_C0D8UC_MUPy8-11" value="Doctor Query along with patient History" style="whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="445" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3a-n9st_C0D8UC_MUPy8-16" value="Model Output" style="whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="410" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y6xTXe3uvFykR0Hw1cl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2Y6xTXe3uvFykR0Hw1cl-9" target="2Y6xTXe3uvFykR0Hw1cl-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y6xTXe3uvFykR0Hw1cl-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Document indexing and text embedding&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="280" y="167.5" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="3a-n9st_C0D8UC_MUPy8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="2Y6xTXe3uvFykR0Hw1cl-16" target="3a-n9st_C0D8UC_MUPy8-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y6xTXe3uvFykR0Hw1cl-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Qdrant vector database for storage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="445" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3a-n9st_C0D8UC_MUPy8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="3a-n9st_C0D8UC_MUPy8-2" target="3a-n9st_C0D8UC_MUPy8-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3a-n9st_C0D8UC_MUPy8-2" value="Retrieval of Query-related information and reranking" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;rounded=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="445" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3a-n9st_C0D8UC_MUPy8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="3a-n9st_C0D8UC_MUPy8-7" target="2Y6xTXe3uvFykR0Hw1cl-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3a-n9st_C0D8UC_MUPy8-7" value="Adding top n relevant results to model&#39;s context" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;rounded=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="285" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3a-n9st_C0D8UC_MUPy8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="2Y6xTXe3uvFykR0Hw1cl-1" target="2Y6xTXe3uvFykR0Hw1cl-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3a-n9st_C0D8UC_MUPy8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;" parent="1" source="3a-n9st_C0D8UC_MUPy8-11" target="3a-n9st_C0D8UC_MUPy8-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
